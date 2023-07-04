@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @anish2210
+- 💻 SSoC 2023 Contributor.
+- 🔥 Maintaining Leetcode Streak.
 - 🧩 wesite - anishjaiswal.netlify.com
 - 💻 GSSoC 2022 Contributer.
 - 👀 I’m interested in full stack Wev Development.
