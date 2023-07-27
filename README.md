@@ -31,9 +31,6 @@ Hello there! I'm Anish, a passionate software developer and tech enthusiast. Wel
 ✨ Contributing to open-source projects that make a positive impact.
 <p align="center">📢 Get in Touch 📢</p>
 
-🌐 Explore my portfolio and blog at anish.dev.
-🐦 Connect with me on Twitter @anish2210.
-📧 Reach out to me via email at anish@example.com.
 <p align="center">📈 GitHub Stats 📈</p>
 
 <p align="center">
