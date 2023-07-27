@@ -42,7 +42,7 @@ Hello there! I'm Anish, a passionate software developer and tech enthusiast. Wel
 <p align="center">🏆 Top Repositories 🏆</p>
 
 <p align="center">
-  <a href="https://github.com/anish2210/awesome-project">
+  <a href="https://github.com/anish2210/full-stack_project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=anish2210&repo=awesome-project&theme=radical">
   </a>
   <a href="https://github.com/anish2210/web-app">
