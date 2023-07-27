@@ -1,3 +1,5 @@
+<p align="center">👋 Welcome to Anish's GitHub Profile 👋</p>
+
 - 👋 Hi, I’m @anish2210
 - 💻 SSoC 2023 Contributor.
 - 🔥 Maintaining Leetcode Streak.
@@ -14,10 +16,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<p align="center">👋 Welcome to Anish's GitHub Profile 👋</p>
 
-<p align="center">
-  <img src="https://github.com/anish2210/anish2210/blob/main/assets/banner.png" alt="Anish's GitHub Profile Banner">
+
 </p>
 <p align="center">🚀 About Me 🚀</p>
 
@@ -63,9 +63,6 @@ I believe that coffee ☕ and coding 💻 together make the perfect blend to kic
 
 I'm always excited to collaborate on interesting projects and learn from others. Feel free to explore my repositories, raise issues, or submit pull requests. Together, let's create something incredible! 😄
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=anish2210.anish2210" alt="Visitors Count">
-</p>
 <p align="center">📃 License 📃</p>
 
 This README and all associated code in my repositories are under MIT License, so feel free to use it as a template or modify it for your own profile!
