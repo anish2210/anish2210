@@ -11,10 +11,12 @@
 - 🔗 LINKED IN PROFILE LINK - <a href="https://www.linkedin.com/in/anish-jaiswal"> Click here </a>
   
 </p>
+<br>
 <p align="center">🚀 About Me 🚀</p>
 
 Hello there! I'm Anish, a passionate software developer and tech enthusiast. Welcome to my GitHub profile, where I love to showcase my projects, contributions, and interests in the world of programming.
 
+<br>
 <p align="center">💼 What I Do 💼</p>
 
 🌱 Currently exploring new technologies and improving my coding skills.
@@ -22,6 +24,7 @@ Hello there! I'm Anish, a passionate software developer and tech enthusiast. Wel
 📚 Sharing my knowledge through blog posts and tutorials.
 ✨ Contributing to open-source projects that make a positive impact.
 
+<br>
 <p align="center">📈 GitHub Stats 📈</p>
 
 <p align="center">
