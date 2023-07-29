@@ -1,14 +1,14 @@
 <p align="center">👋 Welcome to Anish's GitHub Profile 👋</p>
 
-- 👋 Hi, I’m @anish2210
+- 👋 Hi, I’m **Anish Jaiswal**
+- 💻 GSSoC 2022 Contributer.
 - 💻 SSoC 2023 Contributor.
 - 🔥 Maintaining Leetcode Streak.
 - 🧩 wesite - anishjaiswal.netlify.com
-- 💻 GSSoC 2022 Contributer.
 - 👀 I’m interested in full stack Wev Development.
 - 🌱 I’m currently learning Data structures and Algorithms.
 - 📫 you can connect to me on linkedin using the given link.
-- 🔗 PROFILE LINK - linkedin.com/in/anish-jaiswal
+- 🔗 LINKED IN PROFILE LINK - <a href="https://www.linkedin.com/in/anish-jaiswal"> Click here </a>
   
 </p>
 <p align="center">🚀 About Me 🚀</p>
@@ -30,5 +30,3 @@ Hello there! I'm Anish, a passionate software developer and tech enthusiast. Wel
 <p align="center">
 <a href="https://github.com/anish2210/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish2210&layout=compact&theme=radical" /></a>
 </p>
-
-<p align="center">📢 Get in Touch 📢</p>
