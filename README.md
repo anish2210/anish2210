@@ -9,15 +9,7 @@
 - 🌱 I’m currently learning Data structures and Algorithms.
 - 📫 you can connect to me on linkedin using the given link.
 - 🔗 PROFILE LINK - linkedin.com/in/anish-jaiswal
-
-<!---
-anish2210/anish2210 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-
-
+  
 </p>
 <p align="center">🚀 About Me 🚀</p>
 
@@ -29,13 +21,14 @@ Hello there! I'm Anish, a passionate software developer and tech enthusiast. Wel
 💻 Building exciting web applications and mobile apps.
 📚 Sharing my knowledge through blog posts and tutorials.
 ✨ Contributing to open-source projects that make a positive impact.
-<p align="center">📢 Get in Touch 📢</p>
 
 <p align="center">📈 GitHub Stats 📈</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anish2210&show_icons=true&count_private=true&hide=contribs,issues&theme=radical">
+<a href="https://github.com/anish2210/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anish2210&show_icons=true&include_all_commits=true&theme=radical" alt="Anish's github stats" /></a>
 </p>
-<p align="center">📃 License 📃</p>
+<p align="center">
+<a href="https://github.com/anish2210/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish2210&layout=compact&theme=radical" /></a>
+</p>
 
-This README and all associated code in my repositories are under MIT License, so feel free to use it as a template or modify it for your own profile!
+<p align="center">📢 Get in Touch 📢</p>
