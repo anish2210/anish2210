@@ -1,3 +1,5 @@
+[![anish2210's GitHub | Stats](https://stats.quine.sh/anish2210/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=anish2210)
+
 <p align="center">👋 Welcome to Anish's GitHub Profile 👋</p>
 
 - 👋 Hi, I’m **Anish Jaiswal**
