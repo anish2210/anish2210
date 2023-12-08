@@ -1,5 +1,5 @@
-[![anish2210's GitHub | Stats](https://stats.quine.sh/anish2210/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=anish2210)
-[![anish2210's GitHub | Dependencies](https://stats.quine.sh/anish2210/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=anish2210)
+
+
 <p align="center">👋 Welcome to Anish's GitHub Profile 👋</p>
 
 - 👋 Hi, I’m **Anish Jaiswal**
@@ -29,9 +29,7 @@ Hello there! I'm Anish, a passionate software developer and tech enthusiast. Wel
 <br>
 <p align="center">📈 GitHub Stats 📈</p>
 
-<p align="center">
-<a href="https://github.com/anish2210/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anish2210&show_icons=true&include_all_commits=true&theme=radical" alt="Anish's github stats" /></a>
-</p>
-<p align="center">
-<a href="https://github.com/anish2210/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish2210&layout=compact&theme=radical" /></a>
-</p>
+  [![anish2210's GitHub | Stats](https://stats.quine.sh/anish2210/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=anish2210)
+[![anish2210's GitHub | Dependencies](https://stats.quine.sh/anish2210/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=anish2210)
+[![anish2210's GitHub | Languages Over Time](https://stats.quine.sh/anish2210/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=anish2210)
+
