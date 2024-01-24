@@ -29,7 +29,6 @@ Hello there! I'm Anish, a passionate software developer and tech enthusiast. Wel
 <br>
 <p align="center">📈 GitHub Stats 📈</p>
 
-  [![anish2210's GitHub | Stats](https://stats.quine.sh/anish2210/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=anish2210)
-[![anish2210's GitHub | Dependencies](https://stats.quine.sh/anish2210/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=anish2210)
-[![anish2210's GitHub | Languages Over Time](https://stats.quine.sh/anish2210/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=anish2210)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=anish2210&theme=dark)](https://git.io/streak-stats) 
+
 
