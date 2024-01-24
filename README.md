@@ -29,6 +29,8 @@ Hello there! I'm Anish, a passionate software developer and tech enthusiast. Wel
 <br>
 <p align="center">📈 GitHub Stats 📈</p>
 
+<div align="center">
+  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=anish2210&theme=dark)](https://git.io/streak-stats) 
 
-
+</div>
