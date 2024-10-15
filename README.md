@@ -1,7 +1,14 @@
 
 
-# 💫 About Me:
-👋 Hi, I’m Anish Jaiswal<br>💻 GSSoC 2022 Contributer.<br>💻 SSoC 2023 Contributor.<br>💻 HacktoberFest 2023 maintainer.<br>🔥 Maintaining Leetcode Streak.<br>🧩 Website - anishdevs.framer.website<br>👀 I’m interested in full stack Web Development.<br>📫 you can connect to me on linkedIn
+# 👋 Hi, I’m Anish Jaiswal
+- 💻 **HacktoberFest 2024 & 2023 Maintainer**
+- 💻 **SSoC 2023 Contributor**
+- 💻 **GSSoC 2022 Contributor**
+- 👀 **Interested in** Full Stack Web Development
+- 🌐 **Website**: [anishdevs.framer.website](https://anishdevs.framer.website)
+- 📫 **Connect with me on LinkedIn** [anishjaiswal1220](https://www.linkedin.com/in/anish-jaiswal/)
+
+Feel free to check out my projects and let's collaborate!
 
 <div align="center">
 
